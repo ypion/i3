@@ -13,6 +13,7 @@ System:
 	xclip
 	terminus-font
 	i3blocks-gap-git
+	sysstat (for i3blocks and more)
 Terminal:
 	termite
 	xfce4-terminal (because of --drop-down)
@@ -24,3 +25,5 @@ Text-editors:
 	gedit
 PDF+stuff:
 	evince
+Radio:
+	radiotray + ugly gstreamer plugins + notify-daemob notify-osd
