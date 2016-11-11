@@ -1,0 +1,26 @@
+System:
+	rofi
+	compton
+	nitrogen
+	xprop
+	unzip
+	unrar
+	thunar
+	lxappearance
+	lxdm	
+	lxdm-themes
+	i3-lock-fance-git
+	xclip
+	terminus-font
+	i3blocks-gap-git
+Terminal:
+	termite
+	xfce4-terminal (because of --drop-down)
+Browsers:
+	opera
+	chromium-browser
+	qupzilla
+Text-editors:
+	gedit
+PDF+stuff:
+	evince
